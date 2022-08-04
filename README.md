@@ -34,7 +34,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-As the second challenge I've completed from Frontend Mentor, it was a good oportunity to improve my HTML/CSS habilities even further. I've implemented some of the feedbacks I've got from the previous chalenge, like putting CSS global variables on the root element.
+As the second challenge I've completed from Frontend Mentor, it was a good oportunity to improve my HTML/CSS habilities even further. I've implemented some of the feedback I've got from the previous chalenge, like putting CSS global variables on the root element.
 
 ## Author
 
